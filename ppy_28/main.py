@@ -1,3 +1,5 @@
+import requests as requests
+
 dates = ['20000302', '20130302', '20220302']
 pageurl = "onet.pl"
 urls = []
